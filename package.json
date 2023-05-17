@@ -4,7 +4,7 @@
   "description": "Mbicycle screening algorithm task",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/kobuqa/mbicycle-algorithmic-task/issues"
   },
-  "homepage": "https://github.com/kobuqa/mbicycle-algorithmic-task#readme"
+  "homepage": "https://github.com/kobuqa/mbicycle-algorithmic-task#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
