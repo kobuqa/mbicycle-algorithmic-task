@@ -1,0 +1,26 @@
+{
+  "name": "mbicycle-algorithmic-task",
+  "version": "1.0.0",
+  "description": "Mbicycle screening algorithm task",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobuqa/mbicycle-algorithmic-task.git"
+  },
+  "keywords": [
+    "test",
+    "algorithm",
+    "mbicycle",
+    "screening",
+    "pre-interview"
+  ],
+  "author": "Aliaksandr Matveichykau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobuqa/mbicycle-algorithmic-task/issues"
+  },
+  "homepage": "https://github.com/kobuqa/mbicycle-algorithmic-task#readme"
+}
