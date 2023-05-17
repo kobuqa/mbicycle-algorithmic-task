@@ -41,8 +41,14 @@ int: the number of pairs that satisfy the condition.
 - 1 <= arr[i] <= 10^9
 - 0 <= l <= r <= 10^9
 
-> Welcome to index.js and write your own solution.
+> Feel free to open index.js and write your own solution.
 
 > After finishing the solution feel free to create new pull request to current repo.
 
 > Wish you good luck! 🍀
+
+## Test your solution
+
+1. `npm i`
+
+2. `npm test`
