@@ -11,7 +11,7 @@
  *     getNumPairs([2,3,4,5], 5, 7); // Return 4;
  */
 function getNumPairs(arr, l, r) {
-  return 0;
+  // your implementation here
 }
 
 module.exports = getNumPairs;
