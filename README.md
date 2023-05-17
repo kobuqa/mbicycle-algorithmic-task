@@ -19,6 +19,8 @@ There are 4 pairs with a sum between 5 and 7:
 - arr[1] + arr[4] = 2 + 5 = 7
 - arr[2] + arr[3] = 3 + 4 = 7
 
+!NB - avoid duplicates. (2 + 4 is same pair with 4 + 2)
+
 Return 4.
 
 ### Function description
