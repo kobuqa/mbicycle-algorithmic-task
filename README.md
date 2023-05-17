@@ -45,7 +45,7 @@ int: the number of pairs that satisfy the condition.
 
 > Feel free to open index.js and write your own solution.
 
-> After finishing the solution feel free to create new pull request to current repo.
+> After finishing the solution create new pull request to current repo & tag me as reviewer (@kobuqa).
 
 > Wish you good luck! 🍀
 
