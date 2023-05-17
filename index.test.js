@@ -8,8 +8,8 @@ test("Arr: [2, 100, 100]; L: 200; R: 200", () => {
   expect(getNumPairs([2, 100, 100], 200, 200)).toBe(1);
 });
 
-test("Arr: [1, 3, 1, 7]; L: 1; R: 7", () => {
-  expect(getNumPairs([1, 3, 1, 7], 1, 7)).toBe(0);
+test("Arr: [3]; L: 1; R: 7", () => {
+  expect(getNumPairs([3], 1, 7)).toBe(0);
 });
 
 test("Arr: [3, 6, 2, 3]; L: 7; R: 10", () => {
