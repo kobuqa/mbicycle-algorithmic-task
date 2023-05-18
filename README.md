@@ -20,6 +20,7 @@ There are 4 pairs with a sum between 5 and 7:
 - arr[2] + arr[3] = 3 + 4 = 7
 
 !NB - avoid duplicates. (2 + 4 is same pair with 4 + 2)
+
 !!NB - avoid time complexity of O(n^2)
 
 Return 4.
