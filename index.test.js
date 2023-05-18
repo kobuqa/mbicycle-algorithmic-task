@@ -26,3 +26,15 @@ test("Arr: [3, 6, 2, 3]; L: 7; R: 10", () => {
 // 2 + 3 = 5 - cuz lower
 // 2 + 6 = 8 - cuz duplicate
 // 2 + 3 = 5 - cuz lower
+
+test("Arr: [3,4,3,4,2,1,2,1]; L: 4; R: 6", () => {
+  expect(getNumPairs([3, 4, 3, 4, 2, 1, 2, 1], 2, 6)).toBe(8);
+});
+
+test("Arr: [5,1,2]; L: 4; R: 7", () => {
+  expect(getNumPairs([5, 1, 2], 4, 7)).toBe(2);
+});
+
+test("Arr: [3,4,5]; L: 1; R: 2", () => {
+  expect(getNumPairs([3, 4, 5], 1, 2)).toBe(0);
+});
